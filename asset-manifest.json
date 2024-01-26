@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextMagics/static/css/main.05efc660.css",
+    "main.js": "/TextMagics/static/js/main.c296ac04.js",
+    "static/js/787.f22b8f29.chunk.js": "/TextMagics/static/js/787.f22b8f29.chunk.js",
+    "index.html": "/TextMagics/index.html",
+    "main.05efc660.css.map": "/TextMagics/static/css/main.05efc660.css.map",
+    "main.c296ac04.js.map": "/TextMagics/static/js/main.c296ac04.js.map",
+    "787.f22b8f29.chunk.js.map": "/TextMagics/static/js/787.f22b8f29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05efc660.css",
+    "static/js/main.c296ac04.js"
+  ]
+}
